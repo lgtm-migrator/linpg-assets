@@ -1,0 +1,1316 @@
+{
+    "LowTileDirt01": [
+        0,
+        0,
+        131,
+        102
+    ],
+    "LowTileDirtToStoneTransition01": [
+        174,
+        0,
+        131,
+        102
+    ],
+    "LowTileDirtToStoneTransition02": [
+        348,
+        0,
+        131,
+        102
+    ],
+    "LowTileRiverbed01": [
+        522,
+        0,
+        131,
+        102
+    ],
+    "LowTileRiverbed02": [
+        696,
+        0,
+        131,
+        102
+    ],
+    "LowTileRiverbed03": [
+        870,
+        0,
+        131,
+        102
+    ],
+    "LowTileRiverbed04": [
+        1044,
+        0,
+        131,
+        102
+    ],
+    "LowTileSand01": [
+        1218,
+        0,
+        131,
+        102
+    ],
+    "LowTileSand02": [
+        1392,
+        0,
+        131,
+        102
+    ],
+    "LowTileSand03": [
+        1566,
+        0,
+        131,
+        102
+    ],
+    "LowTileStone01": [
+        1740,
+        0,
+        131,
+        102
+    ],
+    "LowTileStone02": [
+        1914,
+        0,
+        131,
+        102
+    ],
+    "LowTileStone03": [
+        2088,
+        0,
+        131,
+        102
+    ],
+    "OverlayCracks01": [
+        2262,
+        0,
+        148,
+        164
+    ],
+    "OverlayCracks02": [
+        2436,
+        0,
+        148,
+        164
+    ],
+    "OverlayGlow01": [
+        0,
+        194,
+        174,
+        194
+    ],
+    "OverlayGlow02": [
+        174,
+        194,
+        169,
+        84
+    ],
+    "OverlayGrass01": [
+        348,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassHalfH01": [
+        522,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassHalfH02": [
+        696,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassHalfV01": [
+        870,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassHalfV02Kopie": [
+        1044,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch01": [
+        1218,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch02": [
+        1392,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch02H01": [
+        1566,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch02H02": [
+        1740,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch02V01": [
+        1914,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch02V02": [
+        2088,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch03": [
+        2262,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch03H01": [
+        2436,
+        194,
+        148,
+        164
+    ],
+    "OverlayGrassPatch03H02": [
+        0,
+        388,
+        148,
+        164
+    ],
+    "OverlayGrassPatch03V01": [
+        174,
+        388,
+        148,
+        164
+    ],
+    "OverlayGrassPatch03V02": [
+        348,
+        388,
+        148,
+        164
+    ],
+    "OverlayGrassPatchH01": [
+        522,
+        388,
+        148,
+        164
+    ],
+    "OverlayGrassPatchH02": [
+        696,
+        388,
+        148,
+        164
+    ],
+    "OverlayGrassPatchV01": [
+        870,
+        388,
+        148,
+        164
+    ],
+    "OverlayGrassPatchV02": [
+        1044,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCross": [
+        1218,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCross301": [
+        1392,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCross302": [
+        1566,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCross303": [
+        1740,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCross304": [
+        1914,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCurve01": [
+        2088,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCurve02": [
+        2262,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCurve03": [
+        2436,
+        388,
+        148,
+        164
+    ],
+    "OverlayPathCurve04": [
+        0,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathEnd01": [
+        174,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathEnd02": [
+        348,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathEnd03": [
+        522,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathEnd04": [
+        696,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathSingle": [
+        870,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathStraight01": [
+        1044,
+        582,
+        148,
+        164
+    ],
+    "OverlayPathStraight02": [
+        1218,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay01": [
+        1392,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay02": [
+        1566,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay03": [
+        1740,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay04": [
+        1914,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay05": [
+        2088,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay06": [
+        2262,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay07": [
+        2436,
+        582,
+        148,
+        164
+    ],
+    "OverlayRoofHay08": [
+        0,
+        776,
+        148,
+        164
+    ],
+    "OverlayRoofHay09": [
+        174,
+        776,
+        148,
+        164
+    ],
+    "OverlayRoofHay10": [
+        348,
+        776,
+        148,
+        164
+    ],
+    "OverlayRoofHay11": [
+        522,
+        776,
+        148,
+        164
+    ],
+    "OverlayRoofHay12": [
+        696,
+        776,
+        148,
+        164
+    ],
+    "OverlayRoofHay13": [
+        870,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreCornerD": [
+        1044,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreCornerL": [
+        1218,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreCornerR": [
+        1392,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreCornerRU": [
+        1566,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreCornerU": [
+        1740,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreStraightLD": [
+        1914,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreStraightLU": [
+        2088,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreStraightRD": [
+        2262,
+        776,
+        148,
+        164
+    ],
+    "OverlayShoreStraightRU": [
+        2436,
+        776,
+        148,
+        164
+    ],
+    "OverlayStonePieces01": [
+        0,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces01HalfH01": [
+        174,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces01HalfH02": [
+        348,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces01HalfV01": [
+        522,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces01HalfV02": [
+        696,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces02": [
+        870,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces02HalfH01": [
+        1044,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces02HalfH02": [
+        1218,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces02HalfV01": [
+        1392,
+        970,
+        148,
+        164
+    ],
+    "OverlayStonePieces02HalfV02": [
+        1566,
+        970,
+        148,
+        164
+    ],
+    "OverlayWater01": [
+        1740,
+        970,
+        148,
+        164
+    ],
+    "OverlayWater02": [
+        1914,
+        970,
+        148,
+        164
+    ],
+    "PropStairStone01": [
+        2088,
+        970,
+        148,
+        164
+    ],
+    "PropStairStone02": [
+        2262,
+        970,
+        148,
+        164
+    ],
+    "PropStairStone03": [
+        2436,
+        970,
+        148,
+        164
+    ],
+    "PropStairStone04": [
+        0,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone05": [
+        174,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone06": [
+        348,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone07": [
+        522,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone08": [
+        696,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone09": [
+        870,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone10": [
+        1044,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone11": [
+        1218,
+        1164,
+        148,
+        164
+    ],
+    "PropStairStone12": [
+        1392,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickBrick01": [
+        1566,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickBrick02": [
+        1740,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickBrick03": [
+        1914,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickBrick04": [
+        2088,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickSandStone01": [
+        2262,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickSnow01": [
+        2436,
+        1164,
+        148,
+        164
+    ],
+    "TileBrickStone01": [
+        0,
+        1358,
+        148,
+        164
+    ],
+    "TileBrickStone0102": [
+        174,
+        1358,
+        148,
+        164
+    ],
+    "TileBrickStone0103": [
+        348,
+        1358,
+        148,
+        164
+    ],
+    "TileBrickStone0104": [
+        522,
+        1358,
+        148,
+        164
+    ],
+    "TileBrickStone0105": [
+        696,
+        1358,
+        148,
+        164
+    ],
+    "TileBrickStone0201": [
+        870,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01": [
+        1044,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01Grass01": [
+        1218,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPatch01": [
+        1392,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPatch02": [
+        1566,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPatch03": [
+        1740,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPath3Cross01": [
+        1914,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPath3Cross02": [
+        2088,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPath3Cross03": [
+        2262,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPath3Cross04": [
+        2436,
+        1358,
+        148,
+        164
+    ],
+    "TileDirt01GrassPath4Cross": [
+        0,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathCurve01": [
+        174,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathCurve02": [
+        348,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathCurve03": [
+        522,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathCurve04": [
+        696,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathEnd01": [
+        870,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathEnd02": [
+        1044,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathEnd03": [
+        1218,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathEnd04": [
+        1392,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathSingle": [
+        1566,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathStraight01": [
+        1740,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01GrassPathStraight02": [
+        1914,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01ToSnow01": [
+        2088,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01ToSnow02": [
+        2262,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01ToStone01": [
+        2436,
+        1552,
+        148,
+        164
+    ],
+    "TileDirt01ToStone02": [
+        0,
+        1746,
+        148,
+        164
+    ],
+    "TileDirt02": [
+        174,
+        1746,
+        148,
+        164
+    ],
+    "TileDirt02ToStone01": [
+        348,
+        1746,
+        148,
+        164
+    ],
+    "TileDirt02ToStone02": [
+        522,
+        1746,
+        148,
+        164
+    ],
+    "TileLava01": [
+        696,
+        1746,
+        148,
+        164
+    ],
+    "TileLava02": [
+        870,
+        1746,
+        148,
+        164
+    ],
+    "TileLavaCracks01": [
+        1044,
+        1746,
+        148,
+        164
+    ],
+    "TileLavaStone01": [
+        1218,
+        1746,
+        148,
+        164
+    ],
+    "TileRiverbed01": [
+        1392,
+        1746,
+        148,
+        164
+    ],
+    "TileRiverbed02": [
+        1566,
+        1746,
+        148,
+        164
+    ],
+    "TileRiverbed03": [
+        1740,
+        1746,
+        148,
+        164
+    ],
+    "TileRiverbed04": [
+        1914,
+        1746,
+        148,
+        164
+    ],
+    "TileSand01": [
+        2088,
+        1746,
+        148,
+        164
+    ],
+    "TileSand01ToStone01": [
+        2262,
+        1746,
+        148,
+        164
+    ],
+    "TileSand01ToStone02": [
+        2436,
+        1746,
+        148,
+        164
+    ],
+    "TileSand02": [
+        0,
+        1940,
+        148,
+        164
+    ],
+    "TileSand02ToStone01": [
+        174,
+        1940,
+        148,
+        164
+    ],
+    "TileSand02ToStone02": [
+        348,
+        1940,
+        148,
+        164
+    ],
+    "TileSand03": [
+        522,
+        1940,
+        148,
+        164
+    ],
+    "TileSand03ToStone01": [
+        696,
+        1940,
+        148,
+        164
+    ],
+    "TileSand03ToStone02": [
+        870,
+        1940,
+        148,
+        164
+    ],
+    "TileSand04": [
+        1044,
+        1940,
+        148,
+        164
+    ],
+    "TileSnow01": [
+        1218,
+        1940,
+        148,
+        164
+    ],
+    "TileSnow01ToStone01": [
+        1392,
+        1940,
+        148,
+        164
+    ],
+    "TileSnow01ToStone02": [
+        1566,
+        1940,
+        148,
+        164
+    ],
+    "TileSnow02": [
+        1740,
+        1940,
+        148,
+        164
+    ],
+    "TileSnow02ToStone01": [
+        1914,
+        1940,
+        148,
+        164
+    ],
+    "TileSnow02ToStone02": [
+        2088,
+        1940,
+        148,
+        164
+    ],
+    "TileStone01": [
+        2262,
+        1940,
+        148,
+        164
+    ],
+    "TileStone02": [
+        2436,
+        1940,
+        148,
+        164
+    ],
+    "TileStone03": [
+        0,
+        2134,
+        148,
+        164
+    ],
+    "TileTemplate01": [
+        174,
+        2134,
+        148,
+        164
+    ],
+    "TileWater01": [
+        348,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterBlock": [
+        522,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1C01": [
+        696,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1C02": [
+        870,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1C03": [
+        1044,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1C04": [
+        1218,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S01": [
+        1392,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S02": [
+        1566,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S03": [
+        1740,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S04": [
+        1914,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C01": [
+        2088,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C02": [
+        2262,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C03": [
+        2436,
+        2134,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C04": [
+        0,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C05": [
+        174,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C06": [
+        348,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C07": [
+        522,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S1C08": [
+        696,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S2C01": [
+        870,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S2C02": [
+        1044,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S2C03": [
+        1218,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore1S2C04": [
+        1392,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2C01": [
+        1566,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2C02": [
+        1740,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2C03": [
+        1914,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2C04": [
+        2088,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2C05": [
+        2262,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2C06": [
+        2436,
+        2328,
+        148,
+        164
+    ],
+    "TileWaterShore2S01": [
+        0,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S02": [
+        174,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S03": [
+        348,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S04": [
+        522,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S05": [
+        696,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S06": [
+        870,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S1C01": [
+        1044,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S1C02": [
+        1218,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S1C03": [
+        1392,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore2S1C04": [
+        1566,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore3C01": [
+        1740,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore3C02": [
+        1914,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore3C03": [
+        2088,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore3C04": [
+        2262,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore3S01": [
+        2436,
+        2522,
+        148,
+        164
+    ],
+    "TileWaterShore3S02": [
+        0,
+        2716,
+        148,
+        164
+    ],
+    "TileWaterShore3S03": [
+        174,
+        2716,
+        148,
+        164
+    ],
+    "TileWaterShore3S04": [
+        348,
+        2716,
+        148,
+        164
+    ],
+    "TileWaterShore4C01": [
+        522,
+        2716,
+        148,
+        164
+    ],
+    "TileWaterShore4S04": [
+        696,
+        2716,
+        148,
+        164
+    ],
+    "TileWood01": [
+        870,
+        2716,
+        148,
+        164
+    ],
+    "TileWood02": [
+        1044,
+        2716,
+        148,
+        164
+    ],
+    "TileWood03": [
+        1218,
+        2716,
+        148,
+        164
+    ],
+    "TileWood04": [
+        1392,
+        2716,
+        148,
+        164
+    ]
+}

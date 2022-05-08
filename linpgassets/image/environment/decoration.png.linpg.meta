@@ -1,0 +1,608 @@
+{
+    "Desert_big_cactus_02": [
+        5920,
+        0,
+        117,
+        358
+    ],
+    "Desert_big_cactus_03": [
+        6660,
+        0,
+        198,
+        340
+    ],
+    "Desert_big_cactus_04": [
+        7400,
+        0,
+        217,
+        351
+    ],
+    "Desert_big_flower_01": [
+        0,
+        1155,
+        124,
+        286
+    ],
+    "Desert_small_Agave_Cactus_01": [
+        2960,
+        1155,
+        166,
+        201
+    ],
+    "Desert_small_Agave_Cactus_02": [
+        3700,
+        1155,
+        165,
+        248
+    ],
+    "Desert_small_Agave_Cactus_03": [
+        4440,
+        1155,
+        166,
+        201
+    ],
+    "Desert_small_Agave_Cactus_04": [
+        5180,
+        1155,
+        165,
+        248
+    ],
+    "Desert_small_Bush_01": [
+        5920,
+        1155,
+        255,
+        168
+    ],
+    "Desert_small_Bush_02": [
+        6660,
+        1155,
+        217,
+        197
+    ],
+    "Desert_small_Cactus_02": [
+        7400,
+        1155,
+        135,
+        240
+    ],
+    "Desert_small_Cactus_03": [
+        0,
+        2310,
+        153,
+        235
+    ],
+    "Desert_small_Cactus_04": [
+        740,
+        2310,
+        91,
+        169
+    ],
+    "Desert_small_Cactus_05": [
+        1480,
+        2310,
+        125,
+        83
+    ],
+    "Desert_small_Cactus_06": [
+        2220,
+        2310,
+        239,
+        161
+    ],
+    "Desert_small_Cactus_07": [
+        2960,
+        2310,
+        81,
+        203
+    ],
+    "Desert_small_Cactus_09": [
+        3700,
+        2310,
+        198,
+        163
+    ],
+    "Desert_small_Cactus_10": [
+        4440,
+        2310,
+        182,
+        133
+    ],
+    "Desert_small_Cactus_11": [
+        5180,
+        2310,
+        135,
+        156
+    ],
+    "Desert_small_Cactus_12": [
+        5920,
+        2310,
+        133,
+        220
+    ],
+    "Desert_small_Cactus_13": [
+        6660,
+        2310,
+        114,
+        226
+    ],
+    "Desert_small_Cactus_14": [
+        7400,
+        2310,
+        124,
+        222
+    ],
+    "Desert_small_Cactus_15": [
+        0,
+        3465,
+        123,
+        241
+    ],
+    "Desert_small_Flower_01": [
+        740,
+        3465,
+        103,
+        99
+    ],
+    "Desert_small_Flower_02": [
+        1480,
+        3465,
+        100,
+        99
+    ],
+    "Desert_small_Flower_03": [
+        2220,
+        3465,
+        116,
+        93
+    ],
+    "Desert_small_Flower_04": [
+        2960,
+        3465,
+        55,
+        66
+    ],
+    "Forest_big_cypress_01": [
+        4440,
+        3465,
+        298,
+        911
+    ],
+    "Forest_big_cypress_02": [
+        5180,
+        3465,
+        375,
+        961
+    ],
+    "Forest_big_cypress_03": [
+        5920,
+        3465,
+        309,
+        875
+    ],
+    "Forest_big_stone_01": [
+        6660,
+        3465,
+        332,
+        319
+    ],
+    "Forest_big_stone_02": [
+        7400,
+        3465,
+        436,
+        419
+    ],
+    "Forest_big_tree_leaf_01": [
+        0,
+        4620,
+        740,
+        1040
+    ],
+    "Forest_big_tree_needle_03": [
+        740,
+        4620,
+        575,
+        1155
+    ],
+    "Forest_big_tree_needle_04": [
+        1480,
+        4620,
+        603,
+        1154
+    ],
+    "Forest_deadBush3": [
+        3700,
+        4620,
+        239,
+        163
+    ],
+    "Forest_deadTree1": [
+        5180,
+        4620,
+        530,
+        1042
+    ],
+    "Forest_deadTree2": [
+        5920,
+        4620,
+        653,
+        1125
+    ],
+    "Forest_deadTree4": [
+        6660,
+        4620,
+        301,
+        681
+    ],
+    "Forest_deadbush5": [
+        4440,
+        4620,
+        132,
+        155
+    ],
+    "Forest_small_bush_01": [
+        7400,
+        4620,
+        197,
+        197
+    ],
+    "Forest_small_bush_02": [
+        0,
+        5775,
+        175,
+        190
+    ],
+    "Forest_small_clover_01": [
+        740,
+        5775,
+        146,
+        124
+    ],
+    "Forest_small_clover_02": [
+        1480,
+        5775,
+        76,
+        111
+    ],
+    "Forest_small_clover_03": [
+        2220,
+        5775,
+        197,
+        182
+    ],
+    "Forest_small_fern_01": [
+        2960,
+        5775,
+        247,
+        169
+    ],
+    "Forest_small_fern_02": [
+        3700,
+        5775,
+        223,
+        169
+    ],
+    "Forest_small_flower_01": [
+        4440,
+        5775,
+        213,
+        185
+    ],
+    "Forest_small_flower_02": [
+        5180,
+        5775,
+        188,
+        216
+    ],
+    "Forest_small_flower_03": [
+        5920,
+        5775,
+        89,
+        157
+    ],
+    "Forest_small_grass_01": [
+        6660,
+        5775,
+        230,
+        185
+    ],
+    "Forest_small_grass_02": [
+        7400,
+        5775,
+        256,
+        209
+    ],
+    "Forest_small_grass_03": [
+        0,
+        6930,
+        256,
+        181
+    ],
+    "Forest_small_grass_04": [
+        740,
+        6930,
+        256,
+        221
+    ],
+    "Forest_small_grass_05": [
+        1480,
+        6930,
+        211,
+        142
+    ],
+    "Forest_small_grass_06": [
+        2220,
+        6930,
+        256,
+        256
+    ],
+    "Forest_small_grass_07": [
+        2960,
+        6930,
+        246,
+        158
+    ],
+    "Forest_small_grass_08": [
+        3700,
+        6930,
+        195,
+        114
+    ],
+    "Forest_small_mushroom_01": [
+        4440,
+        6930,
+        50,
+        66
+    ],
+    "Forest_small_mushroom_02": [
+        5180,
+        6930,
+        97,
+        77
+    ],
+    "Forest_small_mushroom_03": [
+        5920,
+        6930,
+        95,
+        110
+    ],
+    "Forest_small_mushroom_04": [
+        6660,
+        6930,
+        48,
+        65
+    ],
+    "Forest_small_tree_log_01": [
+        7400,
+        6930,
+        203,
+        195
+    ],
+    "Forest_small_tree_log_02": [
+        0,
+        8085,
+        114,
+        271
+    ],
+    "Forest_small_tree_log_03": [
+        740,
+        8085,
+        203,
+        195
+    ],
+    "Forest_small_tree_stump_01": [
+        1480,
+        8085,
+        212,
+        187
+    ],
+    "Forest_small_tree_stump_02": [
+        2220,
+        8085,
+        195,
+        175
+    ],
+    "Forest_small_tree_stump_03": [
+        2960,
+        8085,
+        235,
+        183
+    ],
+    "bamboo1": [
+        0,
+        0,
+        231,
+        677
+    ],
+    "bamboo2": [
+        740,
+        0,
+        84,
+        137
+    ],
+    "bamboo3": [
+        1480,
+        0,
+        122,
+        314
+    ],
+    "bamboo4": [
+        2220,
+        0,
+        231,
+        449
+    ],
+    "bamboo5": [
+        2960,
+        0,
+        66,
+        149
+    ],
+    "bamboo6": [
+        3700,
+        0,
+        67,
+        152
+    ],
+    "bamboo7": [
+        4440,
+        0,
+        231,
+        449
+    ],
+    "bamboo8": [
+        5180,
+        0,
+        231,
+        449
+    ],
+    "desert_skull_01": [
+        740,
+        1155,
+        212,
+        137
+    ],
+    "desert_skull_02": [
+        1480,
+        1155,
+        212,
+        137
+    ],
+    "desert_skull_03": [
+        2220,
+        1155,
+        218,
+        161
+    ],
+    "forest_berrybush": [
+        3700,
+        3465,
+        256,
+        210
+    ],
+    "forest_bush4": [
+        2220,
+        4620,
+        300,
+        260
+    ],
+    "forest_bush5": [
+        2960,
+        4620,
+        300,
+        238
+    ],
+    "reed1": [
+        3700,
+        8085,
+        195,
+        239
+    ],
+    "reed2": [
+        4440,
+        8085,
+        85,
+        171
+    ],
+    "reed3": [
+        5180,
+        8085,
+        195,
+        239
+    ],
+    "reed4": [
+        5920,
+        8085,
+        195,
+        239
+    ],
+    "reed5": [
+        6660,
+        8085,
+        195,
+        239
+    ],
+    "reed6": [
+        7400,
+        8085,
+        195,
+        239
+    ],
+    "reed7": [
+        0,
+        9240,
+        195,
+        151
+    ],
+    "reed8": [
+        740,
+        9240,
+        179,
+        136
+    ],
+    "stone1": [
+        1480,
+        9240,
+        350,
+        260
+    ],
+    "stone2": [
+        2220,
+        9240,
+        95,
+        83
+    ],
+    "stone3": [
+        2960,
+        9240,
+        149,
+        105
+    ],
+    "waterbuds": [
+        3700,
+        9240,
+        256,
+        180
+    ],
+    "waterplant0": [
+        4440,
+        9240,
+        175,
+        94
+    ],
+    "waterplant1": [
+        5180,
+        9240,
+        82,
+        50
+    ],
+    "waterplant2": [
+        5920,
+        9240,
+        101,
+        62
+    ],
+    "waterplant3": [
+        6660,
+        9240,
+        224,
+        162
+    ],
+    "waterplant4": [
+        7400,
+        9240,
+        224,
+        162
+    ],
+    "waterplant5": [
+        0,
+        10395,
+        224,
+        162
+    ],
+    "waterplant6": [
+        740,
+        10395,
+        44,
+        26
+    ]
+}
