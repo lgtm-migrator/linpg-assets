@@ -1,54 +1,54 @@
 {
     "Blocks": {
-        "Brick": {
+        "brick": {
             "passable": true
         },
-        "Dirt": {
+        "dirt": {
             "passable": true
         },
-        "DirtGrass": {
+        "dirt-grass": {
             "passable": true
         },
-        "GrassPath": {
+        "grass-path": {
             "passable": true
         },
-        "Ice": {
+        "ice": {
             "passable": true
         },
-        "Lava": {
+        "lava": {
             "passable": false
         },
-        "Leafs": {
+        "leafs": {
             "passable": true
         },
-        "Mud": {
+        "mud": {
             "passable": true
         },
-        "Riverbed": {
+        "riverbed": {
             "passable": true
         },
-        "Sand": {
+        "sand": {
             "passable": true
         },
-        "Snow": {
+        "snow": {
             "passable": true
         },
-        "Stone": {
+        "stone": {
             "passable": true
         },
-        "Tar": {
+        "tar": {
             "passable": true
         },
-        "Template": {
+        "template": {
             "passable": false
         },
-        "Tree": {
+        "tree": {
             "passable": true
         },
-        "Water": {
+        "water": {
             "passable": false
         },
-        "Wood": {
+        "wood": {
             "passable": true
         }
     },
@@ -94,7 +94,7 @@
             "hidable": true,
             "passable": true
         },
-        "waterplant": {
+        "water-plant": {
             "passable": false
         }
     }
