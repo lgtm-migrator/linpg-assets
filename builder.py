@@ -1,9 +1,12 @@
 from linpg import Builder  # type: ignore
 
-# 编译所有文件
+# compile all files
 additional_files: tuple[str, ...] = ("README.md", "LICENSE")
-Builder.compile("linpgassets", additional_files=additional_files)
+Builder.compile(
+    "linpgassets",
+    update_the_one_in_sitepackages=False,
+    additional_files=additional_files,
+)
 
-# 打包上传最新的文件
 if input("Do you want to package and upload the latest build (Y/n):") == "Y":
     Builder.upload_package()
