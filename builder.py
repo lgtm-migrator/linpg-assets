@@ -1,10 +1,11 @@
-from linpg import Builder  # type: ignore
+from linpgtoolbox.builder import Builder  # type: ignore
 
 # compile all files
 additional_files: tuple[str, ...] = ("README.md", "LICENSE")
 Builder.compile(
     "linpgassets",
     update_the_one_in_sitepackages=False,
+    include_default_pyinstaller_program=True,
     additional_files=additional_files,
 )
 
